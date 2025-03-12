@@ -28,7 +28,10 @@
     "react-native-screens": "latest",
     "react-native-reanimated": "^3.10.1",
     "expo-haptics": "latest",
-    "@expo/vector-icons": "latest"
+    "@expo/vector-icons": "latest",
+    "react-dom": "18.3.1",
+    "react-native-web": "~0.19.13",
+    "@expo/metro-runtime": "~4.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",

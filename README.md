@@ -11,6 +11,9 @@ Tap 1000 is a simple, fast-paced mobile game developed with React Native, where 
 - **Haptic Feedback** – A satisfying vibration on each tap.  
 - **Dark Mode** – Toggle for a comfortable viewing experience.  
 - **Progress Bar** – Animated indicator showing progress to 1,000 taps.  
-- **Restart Button** – Instantly reset and try again.  
+- **Restart Button** – Instantly reset and try again.
+
+## Demo  
+🎮 Check out the gameplay in action: [Tap 1000 Demo](https://screenrec.com/share/oqnKG2kmEe)
 
 Get ready to tap your way to… absolutely nothing! 😆  
